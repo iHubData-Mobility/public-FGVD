@@ -6,3 +6,5 @@ The dataset can be downloaded from: https://iiitaphyd-my.sharepoint.com/:u:/g/pe
 
 - Provided dataset annotations are in Pascal-VOC xml format.
 - Split into train:val:test ratio of 64:16:20 out of 5502 total scene images.
+
+Download Paper:  https://drive.google.com/file/d/1lxeeQBDCeh-rDcHT105q9edHbpQe3gG4/view?usp=share_link
