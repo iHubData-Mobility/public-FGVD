@@ -12,7 +12,7 @@ We provide the first Fine-Grained Vehicle Detection (FGVD) dataset in the wild. 
 
 The dataset is challenging as it has vehicles in complex traffic scenarios with intra-class and inter-class variations in types, scale, pose, occlusion, and lighting conditions. Sample cropped vehicle images of some fine-grained labels from our dataset shown below.
 
-<p align="center"><img src="/readme-images/cropped_samples.png" width="75%" height="75%"></p>
+<p align="center"><img src="/readme-images/cropped_samples.png" width="80%" height="80%"></p>
 
 ## How to Download.
 Download our *FGVD dataset* ([Download](https://zenodo.org/record/7488960)), which contains:
@@ -23,12 +23,12 @@ Download our *FGVD dataset* ([Download](https://zenodo.org/record/7488960)), whi
 ## Statistics.
 It contains 5502 scene images with 24450 bounding boxes of 217 fine-grained labels of multiple vehicle types organized in a three-level hierarchy, namely, vehicle-type, manufacturer and model. 
 
-<p align="center"><img src="/readme-images/dataset_stats1.png" width="85%" height="85%"></p>
+<p align="center"><img src="/readme-images/dataset_stats1.png" width="90%" height="90%"></p>
 
 
 The dataset distribution is long-tailed resulting in class imbalance to different degrees.
 
-<p align="center"><img src="/readme-images/dataset_stats2.png" width="70%" height="70%"></p>
+<p align="center"><img src="/readme-images/dataset_stats2.png" width="90%" height="90%"></p>
 
 ## How to Use.
 We use YOLOv5L for vehicle localization and Label Relation Graphs Enhanced HRN for fine-grained classification. Both models are trained separately on our dataset based on their required inputs. The performance comparison of our model with baseline detectors is provided on our test set:
@@ -40,9 +40,9 @@ We use YOLOv5L for vehicle localization and Label Relation Graphs Enhanced HRN f
 | **YOLOv5L+HRN**  | **83.21%**  | **59.02%** | **48.40%** |
 
 ## Demo.
-Sample output from our FGVD model (YOLOv5L+HRN) on test image:
+Sample output of our FGVD model (YOLOv5L+HRN) on test image:
 
-<p><img src="/readme-images/sample_model_output.png" width="85%" height="85%"></p>
+<p><img src="/readme-images/sample_model_output.png" width="80%" height="80%"></p>
 
 ## Citation.
 If you find this dataset useful, please cite this paper (and refer the data as FGVD dataset):
