@@ -21,9 +21,9 @@ Download our *FGVD dataset* ([Download](https://zenodo.org/record/7488960)), whi
 - The annotations are in Pascal-VOC xml format. (the fine-grained label is encoded as "Vehicle-type_Manufacturer_Model" in object name, ex- car_MarutiSuzuki_Ciaz)
 
 ## Links to download the weights:
-- Yolo ([Download](https://zenodo.org/record/7488960))
-- HRN ([Download](https://zenodo.org/record/7488960))
-- ResNet50 ([Download](https://zenodo.org/record/7488960))
+- Yolo
+- HRN 
+- ResNet50
 
 ## Steps:
   1. Download the weights of yolov5, HRN, ResNet in the working directory.
