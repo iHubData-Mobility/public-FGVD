@@ -20,6 +20,21 @@ Download our *FGVD dataset* ([Download](https://zenodo.org/record/7488960)), whi
 - Train, val, test folders with images and annotations sub-directories. (train:val:test split-ratio of 64:16:20 out of 5502 total scene images) 
 - The annotations are in Pascal-VOC xml format. (the fine-grained label is encoded as "Vehicle-type_Manufacturer_Model" in object name, ex- car_MarutiSuzuki_Ciaz)
 
+## Links to download the weights:
+- Yolo ([Download](https://zenodo.org/record/7488960))
+- HRN ([Download](https://zenodo.org/record/7488960))
+- ResNet50 ([Download](https://zenodo.org/record/7488960))
+
+## Steps:
+  1. Download the weights of yolov5, HRN, ResNet in the working directory.
+  2. Download the FGVD Dataset to the working directory.
+  3. Run Yolo
+  4. Run HRN, Command:
+```bash
+python hrn-fgvd.py --dir ./
+
+```
+
 ## Statistics.
 It contains 5502 scene images with 24450 bounding boxes of 217 fine-grained labels of multiple vehicle types organized in a three-level hierarchy, namely, vehicle-type, manufacturer and model. 
 
