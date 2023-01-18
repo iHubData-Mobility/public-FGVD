@@ -1,0 +1,8 @@
+demo_3.jpg	scooter_Honda_Activa
+demo_6.jpg	car_Hyundai_Santro
+demo_7.jpg	car_Toyota_Etios
+demo_4.jpg	scooter_Honda_Dio
+demo_1.jpg	motorcycle_Bajaj_Pulsar150
+demo_2.jpg	scooter_TVS_Pep
+demo_0.jpg	autorickshaw_autorickshaw_autorickshaw
+demo_5.jpg	scooter_Honda_Activa

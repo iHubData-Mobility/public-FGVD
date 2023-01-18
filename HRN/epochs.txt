@@ -1,0 +1,412 @@
+Epoch: 0
+Iteration 0, train_order_acc = 75.67001,train_family_acc = 35.70990,train_species_acc_soft = 41.91899,train_species_acc_sig = 29.55196, train_loss = 6.728631, Time = 247.2s
+Saved Successfully at 0
+test_order_acc = 84.58059,test_family_acc = 37.15049,test_species_acc_soft = 53.90625,test_species_acc_sig = 33.67599, test_loss = 5.739551, Time = 22.4
+
+Epoch: 1
+Iteration 1, train_order_acc = 89.40773,train_family_acc = 41.14157,train_species_acc_soft = 58.67430,train_species_acc_sig = 35.34165, train_loss = 5.423259, Time = 244.5s
+test_order_acc = 90.78947,test_family_acc = 39.61760,test_species_acc_soft = 61.16365,test_species_acc_sig = 38.19901, test_loss = 5.195543, Time = 22.4
+
+Epoch: 2
+Iteration 2, train_order_acc = 92.51739,train_family_acc = 47.78028,train_species_acc_soft = 66.11088,train_species_acc_sig = 41.61211, train_loss = 4.942884, Time = 243.7s
+test_order_acc = 92.00247,test_family_acc = 52.79605,test_species_acc_soft = 61.57484,test_species_acc_sig = 44.24342, test_loss = 5.082615, Time = 22.4
+
+Epoch: 3
+Iteration 3, train_order_acc = 93.62725,train_family_acc = 54.45479,train_species_acc_soft = 70.39689,train_species_acc_sig = 47.28417, train_loss = 4.657131, Time = 244.4s
+test_order_acc = 92.31086,test_family_acc = 56.10609,test_species_acc_soft = 63.36349,test_species_acc_sig = 49.23931, test_loss = 4.964005, Time = 22.9
+
+Epoch: 4
+Iteration 4, train_order_acc = 94.71154,train_family_acc = 61.26739,train_species_acc_soft = 73.99243,train_species_acc_sig = 52.96645, train_loss = 4.440532, Time = 244.3s
+test_order_acc = 94.55181,test_family_acc = 62.02714,test_species_acc_soft = 68.95559,test_species_acc_sig = 53.26891, test_loss = 4.738492, Time = 22.6
+
+Epoch: 5
+Iteration 5, train_order_acc = 95.23834,train_family_acc = 66.16203,train_species_acc_soft = 77.40385,train_species_acc_sig = 56.39321, train_loss = 4.263986, Time = 243.7s
+test_order_acc = 95.29194,test_family_acc = 64.55592,test_species_acc_soft = 69.01727,test_species_acc_sig = 56.31168, test_loss = 4.686427, Time = 22.5
+
+Epoch: 6
+Iteration 6, train_order_acc = 95.84697,train_family_acc = 69.77291,train_species_acc_soft = 79.74120,train_species_acc_sig = 59.91714, train_loss = 4.122119, Time = 244.2s
+test_order_acc = 95.45641,test_family_acc = 66.38569,test_species_acc_soft = 68.87336,test_species_acc_sig = 55.11924, test_loss = 4.723382, Time = 22.7
+
+Epoch: 7
+Iteration 7, train_order_acc = 96.08224,train_family_acc = 72.18187,train_species_acc_soft = 81.88421,train_species_acc_sig = 62.43863, train_loss = 4.016582, Time = 244.7s
+test_order_acc = 96.15543,test_family_acc = 69.40789,test_species_acc_soft = 69.14062,test_species_acc_sig = 55.63322, test_loss = 4.730376, Time = 22.5
+
+Epoch: 8
+Iteration 8, train_order_acc = 96.56301,train_family_acc = 74.64198,train_species_acc_soft = 83.41858,train_species_acc_sig = 63.45131, train_loss = 3.914963, Time = 245.1s
+test_order_acc = 94.79852,test_family_acc = 65.50164,test_species_acc_soft = 67.55757,test_species_acc_sig = 57.73026, test_loss = 4.907423, Time = 22.5
+
+Epoch: 9
+Iteration 9, train_order_acc = 96.70110,train_family_acc = 76.55483,train_species_acc_soft = 85.33654,train_species_acc_sig = 66.56097, train_loss = 3.837005, Time = 244.7s
+test_order_acc = 93.75000,test_family_acc = 67.68092,test_species_acc_soft = 70.88816,test_species_acc_sig = 58.40872, test_loss = 4.706234, Time = 22.7
+
+Epoch: 10
+Iteration 10, train_order_acc = 96.88523,train_family_acc = 78.03805,train_species_acc_soft = 86.90160,train_species_acc_sig = 68.66817, train_loss = 3.755264, Time = 243.9s
+Saved Successfully at 10
+test_order_acc = 95.23026,test_family_acc = 71.42270,test_species_acc_soft = 70.84704,test_species_acc_sig = 62.06826, test_loss = 4.747948, Time = 22.8
+
+Epoch: 11
+Iteration 11, train_order_acc = 97.03867,train_family_acc = 79.66960,train_species_acc_soft = 88.12909,train_species_acc_sig = 71.01064, train_loss = 3.696639, Time = 244.4s
+test_order_acc = 94.44901,test_family_acc = 70.84704,test_species_acc_soft = 68.79112,test_species_acc_sig = 61.71875, test_loss = 4.867466, Time = 22.7
+
+Epoch: 12
+Iteration 12, train_order_acc = 97.30462,train_family_acc = 81.37786,train_species_acc_soft = 89.33101,train_species_acc_sig = 74.11007, train_loss = 3.640446, Time = 243.8s
+test_order_acc = 95.55921,test_family_acc = 71.48437,test_species_acc_soft = 70.82648,test_species_acc_sig = 62.64391, test_loss = 4.751997, Time = 22.7
+
+Epoch: 13
+Iteration 13, train_order_acc = 97.47340,train_family_acc = 82.95827,train_species_acc_soft = 91.09554,train_species_acc_sig = 76.89239, train_loss = 3.573768, Time = 244.8s
+test_order_acc = 95.84704,test_family_acc = 72.01891,test_species_acc_soft = 72.34786,test_species_acc_sig = 63.56908, test_loss = 4.790218, Time = 22.7
+
+Epoch: 14
+Iteration 14, train_order_acc = 97.89280,train_family_acc = 84.66142,train_species_acc_soft = 91.62234,train_species_acc_sig = 79.20417, train_loss = 3.541390, Time = 245.1s
+test_order_acc = 94.20230,test_family_acc = 71.89556,test_species_acc_soft = 69.75740,test_species_acc_sig = 65.93339, test_loss = 4.942089, Time = 22.7
+
+Epoch: 15
+Iteration 15, train_order_acc = 97.83142,train_family_acc = 85.09104,train_species_acc_soft = 92.22074,train_species_acc_sig = 80.42144, train_loss = 3.514401, Time = 244.5s
+test_order_acc = 96.38158,test_family_acc = 74.38322,test_species_acc_soft = 72.16283,test_species_acc_sig = 68.21546, test_loss = 4.785022, Time = 22.5
+
+Epoch: 16
+Iteration 16, train_order_acc = 98.04112,train_family_acc = 87.24939,train_species_acc_soft = 93.63236,train_species_acc_sig = 83.49529, train_loss = 3.454311, Time = 244.7s
+test_order_acc = 93.23602,test_family_acc = 73.43750,test_species_acc_soft = 71.79276,test_species_acc_sig = 67.72204, test_loss = 4.862819, Time = 22.7
+
+Epoch: 17
+Iteration 17, train_order_acc = 98.08715,train_family_acc = 87.76596,train_species_acc_soft = 93.95970,train_species_acc_sig = 85.43372, train_loss = 3.434303, Time = 244.0s
+test_order_acc = 95.18914,test_family_acc = 76.21299,test_species_acc_soft = 72.67681,test_species_acc_sig = 70.64145, test_loss = 4.837391, Time = 22.7
+
+Epoch: 18
+Iteration 18, train_order_acc = 98.28662,train_family_acc = 89.12132,train_species_acc_soft = 94.79337,train_species_acc_sig = 86.48732, train_loss = 3.401929, Time = 244.1s
+test_order_acc = 95.78536,test_family_acc = 76.15132,test_species_acc_soft = 74.34211,test_species_acc_sig = 70.53865, test_loss = 4.764469, Time = 22.6
+
+Epoch: 19
+Iteration 19, train_order_acc = 98.49120,train_family_acc = 89.41796,train_species_acc_soft = 95.26903,train_species_acc_sig = 87.44374, train_loss = 3.373680, Time = 244.8s
+test_order_acc = 95.86760,test_family_acc = 75.12336,test_species_acc_soft = 73.70477,test_species_acc_sig = 70.06579, test_loss = 4.856777, Time = 22.6
+
+Epoch: 20
+Iteration 20, train_order_acc = 98.41448,train_family_acc = 90.52782,train_species_acc_soft = 95.77537,train_species_acc_sig = 89.15200, train_loss = 3.360673, Time = 245.3s
+Saved Successfully at 20
+test_order_acc = 96.11431,test_family_acc = 76.95312,test_species_acc_soft = 74.56826,test_species_acc_sig = 72.69737, test_loss = 4.795486, Time = 22.6
+
+Epoch: 21
+Iteration 21, train_order_acc = 98.77762,train_family_acc = 91.15180,train_species_acc_soft = 96.41469,train_species_acc_sig = 90.25675, train_loss = 3.328143, Time = 244.5s
+test_order_acc = 96.03207,test_family_acc = 76.41859,test_species_acc_soft = 74.19819,test_species_acc_sig = 71.54605, test_loss = 4.774727, Time = 22.8
+
+Epoch: 22
+Iteration 22, train_order_acc = 98.61395,train_family_acc = 91.94967,train_species_acc_soft = 96.71645,train_species_acc_sig = 90.93187, train_loss = 3.319847, Time = 244.2s
+test_order_acc = 96.54605,test_family_acc = 78.00164,test_species_acc_soft = 73.91036,test_species_acc_sig = 72.57401, test_loss = 4.791325, Time = 22.8
+
+Epoch: 23
+Iteration 23, train_order_acc = 98.92083,train_family_acc = 93.05442,train_species_acc_soft = 96.89034,train_species_acc_sig = 91.87807, train_loss = 3.296565, Time = 244.4s
+test_order_acc = 96.29934,test_family_acc = 77.22039,test_species_acc_soft = 73.97204,test_species_acc_sig = 72.36842, test_loss = 4.848623, Time = 22.8
+
+Epoch: 24
+Iteration 24, train_order_acc = 99.03846,train_family_acc = 93.32549,train_species_acc_soft = 97.07958,train_species_acc_sig = 92.49182, train_loss = 3.285166, Time = 244.8s
+test_order_acc = 96.21711,test_family_acc = 77.77549,test_species_acc_soft = 74.25987,test_species_acc_sig = 72.88240, test_loss = 4.858559, Time = 22.7
+
+Epoch: 25
+Iteration 25, train_order_acc = 98.99755,train_family_acc = 93.79092,train_species_acc_soft = 97.15630,train_species_acc_sig = 92.97259, train_loss = 3.285594, Time = 244.6s
+test_order_acc = 96.21711,test_family_acc = 77.19984,test_species_acc_soft = 74.73273,test_species_acc_sig = 73.39638, test_loss = 4.834652, Time = 22.6
+
+Epoch: 26
+Iteration 26, train_order_acc = 99.15098,train_family_acc = 94.47627,train_species_acc_soft = 97.64218,train_species_acc_sig = 93.60679, train_loss = 3.262695, Time = 244.5s
+test_order_acc = 96.40214,test_family_acc = 77.87829,test_species_acc_soft = 75.14391,test_species_acc_sig = 73.33470, test_loss = 4.784422, Time = 22.6
+
+Epoch: 27
+Iteration 27, train_order_acc = 99.11007,train_family_acc = 94.94169,train_species_acc_soft = 97.78539,train_species_acc_sig = 94.12336, train_loss = 3.251659, Time = 243.9s
+test_order_acc = 96.17599,test_family_acc = 78.41283,test_species_acc_soft = 75.61678,test_species_acc_sig = 74.34211, test_loss = 4.781931, Time = 22.5
+
+Epoch: 28
+Iteration 28, train_order_acc = 99.35045,train_family_acc = 95.46338,train_species_acc_soft = 98.10761,train_species_acc_sig = 94.63482, train_loss = 3.236463, Time = 244.6s
+test_order_acc = 96.07319,test_family_acc = 78.86513,test_species_acc_soft = 75.82237,test_species_acc_sig = 74.36266, test_loss = 4.852158, Time = 22.9
+
+Epoch: 29
+Iteration 29, train_order_acc = 99.29419,train_family_acc = 95.65773,train_species_acc_soft = 98.45540,train_species_acc_sig = 94.87009, train_loss = 3.227383, Time = 245.1s
+test_order_acc = 96.91612,test_family_acc = 79.95477,test_species_acc_soft = 76.45970,test_species_acc_sig = 74.50658, test_loss = 4.710663, Time = 22.7
+
+Epoch: 30
+Iteration 30, train_order_acc = 99.40671,train_family_acc = 96.06690,train_species_acc_soft = 98.45029,train_species_acc_sig = 95.38666, train_loss = 3.218027, Time = 244.9s
+Saved Successfully at 30
+test_order_acc = 95.08635,test_family_acc = 78.53618,test_species_acc_soft = 75.34951,test_species_acc_sig = 73.84868, test_loss = 4.823597, Time = 22.4
+
+Epoch: 31
+Iteration 31, train_order_acc = 99.50900,train_family_acc = 96.45049,train_species_acc_soft = 98.68556,train_species_acc_sig = 95.66796, train_loss = 3.204271, Time = 244.7s
+test_order_acc = 96.50493,test_family_acc = 79.85197,test_species_acc_soft = 76.45970,test_species_acc_sig = 75.22615, test_loss = 4.758502, Time = 22.5
+
+Epoch: 32
+Iteration 32, train_order_acc = 99.60618,train_family_acc = 96.75736,train_species_acc_soft = 98.90548,train_species_acc_sig = 96.07201, train_loss = 3.193649, Time = 245.0s
+test_order_acc = 97.14227,test_family_acc = 79.60526,test_species_acc_soft = 76.43914,test_species_acc_sig = 74.79441, test_loss = 4.743379, Time = 22.5
+
+Epoch: 33
+Iteration 33, train_order_acc = 99.65732,train_family_acc = 96.90569,train_species_acc_soft = 98.99755,train_species_acc_sig = 96.16408, train_loss = 3.187510, Time = 244.3s
+test_order_acc = 96.75164,test_family_acc = 79.93421,test_species_acc_soft = 76.64474,test_species_acc_sig = 74.95888, test_loss = 4.781105, Time = 22.3
+
+Epoch: 34
+Iteration 34, train_order_acc = 99.67267,train_family_acc = 96.96195,train_species_acc_soft = 99.00266,train_species_acc_sig = 96.34309, train_loss = 3.182744, Time = 244.7s
+test_order_acc = 96.99836,test_family_acc = 78.92681,test_species_acc_soft = 76.56250,test_species_acc_sig = 75.00000, test_loss = 4.759701, Time = 22.5
+
+Epoch: 35
+Iteration 35, train_order_acc = 99.65732,train_family_acc = 97.18699,train_species_acc_soft = 99.18167,train_species_acc_sig = 96.54767, train_loss = 3.173567, Time = 244.7s
+test_order_acc = 97.16283,test_family_acc = 80.03701,test_species_acc_soft = 76.89145,test_species_acc_sig = 75.59622, test_loss = 4.732781, Time = 22.5
+
+Epoch: 36
+Iteration 36, train_order_acc = 99.72893,train_family_acc = 97.20745,train_species_acc_soft = 99.22770,train_species_acc_sig = 96.68576, train_loss = 3.172768, Time = 243.9s
+test_order_acc = 97.03947,test_family_acc = 80.22204,test_species_acc_soft = 76.91201,test_species_acc_sig = 75.65789, test_loss = 4.723483, Time = 22.4
+
+Epoch: 37
+Iteration 37, train_order_acc = 99.81076,train_family_acc = 97.44272,train_species_acc_soft = 99.28396,train_species_acc_sig = 96.73691, train_loss = 3.165977, Time = 245.1s
+test_order_acc = 96.99836,test_family_acc = 80.69490,test_species_acc_soft = 77.34375,test_species_acc_sig = 76.00740, test_loss = 4.670984, Time = 22.5
+
+Epoch: 38
+Iteration 38, train_order_acc = 99.79030,train_family_acc = 97.35577,train_species_acc_soft = 99.20724,train_species_acc_sig = 96.80340, train_loss = 3.170887, Time = 246.5s
+test_order_acc = 97.01891,test_family_acc = 80.87993,test_species_acc_soft = 77.54934,test_species_acc_sig = 76.60362, test_loss = 4.708370, Time = 22.6
+
+Epoch: 39
+Iteration 39, train_order_acc = 99.80053,train_family_acc = 97.49386,train_species_acc_soft = 99.28396,train_species_acc_sig = 96.97729, train_loss = 3.163639, Time = 246.6s
+test_order_acc = 96.75164,test_family_acc = 80.46875,test_species_acc_soft = 77.42599,test_species_acc_sig = 75.82237, test_loss = 4.754441, Time = 22.4
+
+Epoch: 40
+Iteration 40, train_order_acc = 99.85168,train_family_acc = 97.55012,train_species_acc_soft = 99.32488,train_species_acc_sig = 96.96706, train_loss = 3.159387, Time = 244.6s
+Saved Successfully at 40
+test_order_acc = 97.08059,test_family_acc = 80.96217,test_species_acc_soft = 78.04276,test_species_acc_sig = 76.87089, test_loss = 4.681438, Time = 22.3
+
+Epoch: 41
+Iteration 41, train_order_acc = 99.83633,train_family_acc = 97.54501,train_species_acc_soft = 99.37091,train_species_acc_sig = 96.92615, train_loss = 3.157778, Time = 244.5s
+test_order_acc = 97.10115,test_family_acc = 81.06497,test_species_acc_soft = 78.04276,test_species_acc_sig = 76.62418, test_loss = 4.670975, Time = 22.5
+
+Epoch: 42
+Iteration 42, train_order_acc = 99.82610,train_family_acc = 97.63707,train_species_acc_soft = 99.34022,train_species_acc_sig = 97.07958, train_loss = 3.157080, Time = 243.8s
+test_order_acc = 97.24507,test_family_acc = 80.75658,test_species_acc_soft = 77.77549,test_species_acc_sig = 76.50082, test_loss = 4.732588, Time = 22.7
+
+Epoch: 43
+Iteration 43, train_order_acc = 99.89259,train_family_acc = 97.75471,train_species_acc_soft = 99.46297,train_species_acc_sig = 97.30462, train_loss = 3.152321, Time = 244.6s
+test_order_acc = 97.30674,test_family_acc = 81.31168,test_species_acc_soft = 78.18668,test_species_acc_sig = 76.66530, test_loss = 4.702190, Time = 22.5
+
+Epoch: 44
+Iteration 44, train_order_acc = 99.84145,train_family_acc = 97.68822,train_species_acc_soft = 99.45786,train_species_acc_sig = 97.31485, train_loss = 3.149695, Time = 247.3s
+test_order_acc = 97.22451,test_family_acc = 81.20888,test_species_acc_soft = 78.16612,test_species_acc_sig = 76.33635, test_loss = 4.671852, Time = 22.7
+
+Epoch: 45
+Iteration 45, train_order_acc = 99.87214,train_family_acc = 97.73936,train_species_acc_soft = 99.42205,train_species_acc_sig = 97.20233, train_loss = 3.149566, Time = 245.5s
+test_order_acc = 97.28618,test_family_acc = 81.43503,test_species_acc_soft = 77.71382,test_species_acc_sig = 76.58306, test_loss = 4.721228, Time = 22.5
+
+Epoch: 46
+Iteration 46, train_order_acc = 99.85168,train_family_acc = 97.82119,train_species_acc_soft = 99.47320,train_species_acc_sig = 97.43760, train_loss = 3.148648, Time = 245.2s
+test_order_acc = 97.03947,test_family_acc = 81.04441,test_species_acc_soft = 77.54934,test_species_acc_sig = 76.64474, test_loss = 4.727325, Time = 22.6
+
+Epoch: 47
+Iteration 47, train_order_acc = 99.90282,train_family_acc = 97.78028,train_species_acc_soft = 99.44763,train_species_acc_sig = 97.33020, train_loss = 3.147999, Time = 244.6s
+test_order_acc = 97.32730,test_family_acc = 81.18832,test_species_acc_soft = 78.14556,test_species_acc_sig = 77.03536, test_loss = 4.678680, Time = 22.7
+
+Epoch: 48
+Iteration 48, train_order_acc = 99.89771,train_family_acc = 97.78539,train_species_acc_soft = 99.47831,train_species_acc_sig = 97.38134, train_loss = 3.146067, Time = 243.5s
+test_order_acc = 97.49178,test_family_acc = 81.10609,test_species_acc_soft = 77.96053,test_species_acc_sig = 76.72697, test_loss = 4.689036, Time = 22.3
+
+Epoch: 49
+Iteration 49, train_order_acc = 99.90282,train_family_acc = 97.78539,train_species_acc_soft = 99.47831,train_species_acc_sig = 97.34043, train_loss = 3.146930, Time = 245.6s
+test_order_acc = 97.36842,test_family_acc = 81.00329,test_species_acc_soft = 78.04276,test_species_acc_sig = 76.70641, test_loss = 4.689868, Time = 22.6
+
+Epoch: 50
+Iteration 50, train_order_acc = 99.93351,train_family_acc = 97.80585,train_species_acc_soft = 99.46297,train_species_acc_sig = 97.29951, train_loss = 3.145762, Time = 245.1s
+Saved Successfully at 50
+test_order_acc = 97.22451,test_family_acc = 81.00329,test_species_acc_soft = 78.18668,test_species_acc_sig = 76.91201, test_loss = 4.658942, Time = 22.5
+
+Epoch: 51
+Iteration 51, train_order_acc = 99.92840,train_family_acc = 97.80074,train_species_acc_soft = 99.43228,train_species_acc_sig = 97.36600, train_loss = 3.145997, Time = 245.0s
+test_order_acc = 97.20395,test_family_acc = 81.00329,test_species_acc_soft = 78.35115,test_species_acc_sig = 76.56250, test_loss = 4.673469, Time = 22.6
+
+Epoch: 52
+Iteration 52, train_order_acc = 99.90282,train_family_acc = 97.88257,train_species_acc_soft = 99.50900,train_species_acc_sig = 97.50921, train_loss = 3.142733, Time = 245.2s
+test_order_acc = 97.03947,test_family_acc = 81.25000,test_species_acc_soft = 77.96053,test_species_acc_sig = 76.62418, test_loss = 4.687706, Time = 22.5
+
+Epoch: 53
+Iteration 53, train_order_acc = 99.93351,train_family_acc = 97.83142,train_species_acc_soft = 99.52435,train_species_acc_sig = 97.48363, train_loss = 3.141314, Time = 244.4s
+test_order_acc = 97.32730,test_family_acc = 81.37336,test_species_acc_soft = 78.43339,test_species_acc_sig = 76.93257, test_loss = 4.669481, Time = 22.6
+
+Epoch: 54
+Iteration 54, train_order_acc = 99.93863,train_family_acc = 97.89280,train_species_acc_soft = 99.52435,train_species_acc_sig = 97.47340, train_loss = 3.140562, Time = 244.9s
+test_order_acc = 97.30674,test_family_acc = 81.55839,test_species_acc_soft = 78.70066,test_species_acc_sig = 76.97368, test_loss = 4.655629, Time = 22.4
+
+Epoch: 55
+Iteration 55, train_order_acc = 99.93863,train_family_acc = 97.89280,train_species_acc_soft = 99.49877,train_species_acc_sig = 97.51944, train_loss = 3.140912, Time = 246.3s
+test_order_acc = 97.40954,test_family_acc = 81.35280,test_species_acc_soft = 78.55674,test_species_acc_sig = 76.93257, test_loss = 4.681250, Time = 22.7
+
+Epoch: 56
+Iteration 56, train_order_acc = 99.93863,train_family_acc = 97.91326,train_species_acc_soft = 99.56015,train_species_acc_sig = 97.49898, train_loss = 3.139601, Time = 245.8s
+test_order_acc = 97.32730,test_family_acc = 81.51727,test_species_acc_soft = 78.28947,test_species_acc_sig = 76.97368, test_loss = 4.649195, Time = 22.5
+
+Epoch: 57
+Iteration 57, train_order_acc = 99.92328,train_family_acc = 97.89791,train_species_acc_soft = 99.51923,train_species_acc_sig = 97.59615, train_loss = 3.138408, Time = 245.2s
+test_order_acc = 97.24507,test_family_acc = 81.35280,test_species_acc_soft = 78.39227,test_species_acc_sig = 76.72697, test_loss = 4.662561, Time = 22.5
+
+Epoch: 58
+Iteration 58, train_order_acc = 99.96931,train_family_acc = 97.86723,train_species_acc_soft = 99.52946,train_species_acc_sig = 97.57570, train_loss = 3.139191, Time = 245.2s
+test_order_acc = 97.24507,test_family_acc = 81.49671,test_species_acc_soft = 78.74178,test_species_acc_sig = 77.07648, test_loss = 4.678530, Time = 22.6
+
+Epoch: 59
+Iteration 59, train_order_acc = 99.94885,train_family_acc = 97.92349,train_species_acc_soft = 99.59595,train_species_acc_sig = 97.57058, train_loss = 3.138720, Time = 243.6s
+test_order_acc = 97.30674,test_family_acc = 81.94901,test_species_acc_soft = 78.47451,test_species_acc_sig = 77.11760, test_loss = 4.679301, Time = 22.6
+
+Epoch: 60
+Iteration 60, train_order_acc = 99.95397,train_family_acc = 97.88768,train_species_acc_soft = 99.52435,train_species_acc_sig = 97.63196, train_loss = 3.137900, Time = 245.2s
+Saved Successfully at 60
+test_order_acc = 97.28618,test_family_acc = 81.64062,test_species_acc_soft = 78.26891,test_species_acc_sig = 76.97368, test_loss = 4.664270, Time = 22.3
+
+Epoch: 61
+Iteration 61, train_order_acc = 99.97443,train_family_acc = 97.94906,train_species_acc_soft = 99.54992,train_species_acc_sig = 97.61150, train_loss = 3.137030, Time = 246.4s
+test_order_acc = 97.38898,test_family_acc = 81.84622,test_species_acc_soft = 78.39227,test_species_acc_sig = 77.13816, test_loss = 4.651565, Time = 22.6
+
+Epoch: 62
+Iteration 62, train_order_acc = 99.94374,train_family_acc = 97.89791,train_species_acc_soft = 99.53457,train_species_acc_sig = 97.65753, train_loss = 3.136381, Time = 244.8s
+test_order_acc = 97.32730,test_family_acc = 81.51727,test_species_acc_soft = 78.65954,test_species_acc_sig = 77.38487, test_loss = 4.651451, Time = 22.9
+
+Epoch: 63
+Iteration 63, train_order_acc = 99.97443,train_family_acc = 97.88768,train_species_acc_soft = 99.51923,train_species_acc_sig = 97.63196, train_loss = 3.135943, Time = 243.9s
+test_order_acc = 97.24507,test_family_acc = 81.88734,test_species_acc_soft = 78.90625,test_species_acc_sig = 77.19984, test_loss = 4.657119, Time = 22.6
+
+Epoch: 64
+Iteration 64, train_order_acc = 99.96420,train_family_acc = 97.95417,train_species_acc_soft = 99.57038,train_species_acc_sig = 97.68310, train_loss = 3.136296, Time = 245.1s
+test_order_acc = 97.43010,test_family_acc = 81.76398,test_species_acc_soft = 78.76234,test_species_acc_sig = 77.42599, test_loss = 4.666256, Time = 22.7
+
+Epoch: 65
+Iteration 65, train_order_acc = 99.97443,train_family_acc = 97.98486,train_species_acc_soft = 99.52946,train_species_acc_sig = 97.66776, train_loss = 3.136165, Time = 244.9s
+test_order_acc = 97.26562,test_family_acc = 81.74342,test_species_acc_soft = 78.55674,test_species_acc_sig = 77.44655, test_loss = 4.650957, Time = 22.4
+
+Epoch: 66
+Iteration 66, train_order_acc = 99.96420,train_family_acc = 97.99509,train_species_acc_soft = 99.62664,train_species_acc_sig = 97.73936, train_loss = 3.134987, Time = 245.1s
+test_order_acc = 97.18339,test_family_acc = 81.84622,test_species_acc_soft = 78.28947,test_species_acc_sig = 77.22039, test_loss = 4.668161, Time = 22.7
+
+Epoch: 67
+Iteration 67, train_order_acc = 99.94374,train_family_acc = 97.98486,train_species_acc_soft = 99.64198,train_species_acc_sig = 97.77516, train_loss = 3.134476, Time = 244.2s
+test_order_acc = 97.34786,test_family_acc = 81.88734,test_species_acc_soft = 78.76234,test_species_acc_sig = 77.28207, test_loss = 4.663785, Time = 22.8
+
+Epoch: 68
+Iteration 68, train_order_acc = 99.96931,train_family_acc = 97.95417,train_species_acc_soft = 99.60106,train_species_acc_sig = 97.79562, train_loss = 3.134383, Time = 243.9s
+test_order_acc = 97.34786,test_family_acc = 81.72286,test_species_acc_soft = 78.35115,test_species_acc_sig = 76.99424, test_loss = 4.666184, Time = 22.6
+
+Epoch: 69
+Iteration 69, train_order_acc = 99.96420,train_family_acc = 97.99509,train_species_acc_soft = 99.61129,train_species_acc_sig = 97.72402, train_loss = 3.133673, Time = 244.6s
+test_order_acc = 97.20395,test_family_acc = 81.70230,test_species_acc_soft = 78.51562,test_species_acc_sig = 77.22039, test_loss = 4.653613, Time = 22.7
+
+Epoch: 70
+Iteration 70, train_order_acc = 99.97954,train_family_acc = 97.96952,train_species_acc_soft = 99.56015,train_species_acc_sig = 97.70356, train_loss = 3.134585, Time = 244.3s
+Saved Successfully at 70
+test_order_acc = 97.28618,test_family_acc = 81.64062,test_species_acc_soft = 78.39227,test_species_acc_sig = 76.91201, test_loss = 4.652375, Time = 22.6
+
+Epoch: 71
+Iteration 71, train_order_acc = 99.97443,train_family_acc = 97.95929,train_species_acc_soft = 99.63175,train_species_acc_sig = 97.73936, train_loss = 3.133876, Time = 244.0s
+test_order_acc = 97.28618,test_family_acc = 81.76398,test_species_acc_soft = 78.47451,test_species_acc_sig = 77.50822, test_loss = 4.628465, Time = 22.8
+
+Epoch: 72
+Iteration 72, train_order_acc = 99.95908,train_family_acc = 98.00020,train_species_acc_soft = 99.65732,train_species_acc_sig = 97.80074, train_loss = 3.133031, Time = 243.4s
+test_order_acc = 97.28618,test_family_acc = 81.68174,test_species_acc_soft = 78.59786,test_species_acc_sig = 77.19984, test_loss = 4.672743, Time = 22.6
+
+Epoch: 73
+Iteration 73, train_order_acc = 99.95397,train_family_acc = 98.04112,train_species_acc_soft = 99.64198,train_species_acc_sig = 97.80585, train_loss = 3.132780, Time = 244.1s
+test_order_acc = 97.30674,test_family_acc = 81.70230,test_species_acc_soft = 78.61842,test_species_acc_sig = 77.01480, test_loss = 4.651193, Time = 23.0
+
+Epoch: 74
+Iteration 74, train_order_acc = 99.97954,train_family_acc = 97.98486,train_species_acc_soft = 99.61129,train_species_acc_sig = 97.75471, train_loss = 3.133391, Time = 244.9s
+test_order_acc = 97.30674,test_family_acc = 81.64062,test_species_acc_soft = 78.65954,test_species_acc_sig = 77.19984, test_loss = 4.658612, Time = 22.7
+
+Epoch: 75
+Iteration 75, train_order_acc = 99.95397,train_family_acc = 97.98998,train_species_acc_soft = 99.65221,train_species_acc_sig = 97.79562, train_loss = 3.132847, Time = 244.2s
+test_order_acc = 97.32730,test_family_acc = 81.82566,test_species_acc_soft = 78.53618,test_species_acc_sig = 76.76809, test_loss = 4.657921, Time = 22.4
+
+Epoch: 76
+Iteration 76, train_order_acc = 99.97954,train_family_acc = 97.99509,train_species_acc_soft = 99.66244,train_species_acc_sig = 97.78028, train_loss = 3.132407, Time = 244.8s
+test_order_acc = 97.26562,test_family_acc = 81.66118,test_species_acc_soft = 78.76234,test_species_acc_sig = 77.17928, test_loss = 4.653827, Time = 22.8
+
+Epoch: 77
+Iteration 77, train_order_acc = 99.95397,train_family_acc = 97.99509,train_species_acc_soft = 99.64198,train_species_acc_sig = 97.82631, train_loss = 3.132703, Time = 244.4s
+test_order_acc = 97.36842,test_family_acc = 81.84622,test_species_acc_soft = 78.65954,test_species_acc_sig = 77.09704, test_loss = 4.645794, Time = 22.6
+
+Epoch: 78
+Iteration 78, train_order_acc = 99.95908,train_family_acc = 97.98486,train_species_acc_soft = 99.63687,train_species_acc_sig = 97.78539, train_loss = 3.132971, Time = 243.9s
+test_order_acc = 97.40954,test_family_acc = 81.57895,test_species_acc_soft = 78.78289,test_species_acc_sig = 77.15872, test_loss = 4.639459, Time = 22.7
+
+Epoch: 79
+Iteration 79, train_order_acc = 99.97443,train_family_acc = 98.03601,train_species_acc_soft = 99.61641,train_species_acc_sig = 97.77516, train_loss = 3.132622, Time = 244.6s
+test_order_acc = 97.38898,test_family_acc = 81.68174,test_species_acc_soft = 78.74178,test_species_acc_sig = 77.13816, test_loss = 4.645764, Time = 22.8
+
+Epoch: 80
+Iteration 80, train_order_acc = 99.97443,train_family_acc = 98.04112,train_species_acc_soft = 99.72893,train_species_acc_sig = 97.85188, train_loss = 3.131797, Time = 244.2s
+Saved Successfully at 80
+test_order_acc = 97.38898,test_family_acc = 81.70230,test_species_acc_soft = 78.68010,test_species_acc_sig = 77.05592, test_loss = 4.662610, Time = 22.2
+
+Epoch: 81
+Iteration 81, train_order_acc = 99.96931,train_family_acc = 98.05646,train_species_acc_soft = 99.67778,train_species_acc_sig = 97.79051, train_loss = 3.132018, Time = 243.5s
+test_order_acc = 97.32730,test_family_acc = 82.05181,test_species_acc_soft = 78.72122,test_species_acc_sig = 77.09704, test_loss = 4.651573, Time = 22.9
+
+Epoch: 82
+Iteration 82, train_order_acc = 99.98977,train_family_acc = 98.01555,train_species_acc_soft = 99.62664,train_species_acc_sig = 97.78539, train_loss = 3.132039, Time = 244.5s
+test_order_acc = 97.34786,test_family_acc = 81.74342,test_species_acc_soft = 78.78289,test_species_acc_sig = 77.22039, test_loss = 4.650816, Time = 22.4
+
+Epoch: 83
+Iteration 83, train_order_acc = 99.96420,train_family_acc = 98.02578,train_species_acc_soft = 99.65732,train_species_acc_sig = 97.80074, train_loss = 3.132256, Time = 243.8s
+test_order_acc = 97.22451,test_family_acc = 82.23684,test_species_acc_soft = 78.74178,test_species_acc_sig = 77.30263, test_loss = 4.643455, Time = 22.9
+
+Epoch: 84
+Iteration 84, train_order_acc = 99.98466,train_family_acc = 97.99509,train_species_acc_soft = 99.68801,train_species_acc_sig = 97.77516, train_loss = 3.131930, Time = 244.8s
+test_order_acc = 97.36842,test_family_acc = 81.66118,test_species_acc_soft = 78.33059,test_species_acc_sig = 76.95312, test_loss = 4.655881, Time = 22.8
+
+Epoch: 85
+Iteration 85, train_order_acc = 99.96420,train_family_acc = 98.01043,train_species_acc_soft = 99.68290,train_species_acc_sig = 97.80585, train_loss = 3.132064, Time = 244.6s
+test_order_acc = 97.34786,test_family_acc = 81.70230,test_species_acc_soft = 78.57730,test_species_acc_sig = 77.05592, test_loss = 4.643267, Time = 22.5
+
+Epoch: 86
+Iteration 86, train_order_acc = 99.97443,train_family_acc = 98.01043,train_species_acc_soft = 99.63175,train_species_acc_sig = 97.82631, train_loss = 3.131912, Time = 243.9s
+test_order_acc = 97.26562,test_family_acc = 81.64062,test_species_acc_soft = 78.61842,test_species_acc_sig = 77.17928, test_loss = 4.652928, Time = 22.7
+
+Epoch: 87
+Iteration 87, train_order_acc = 99.96420,train_family_acc = 98.03601,train_species_acc_soft = 99.67267,train_species_acc_sig = 97.79051, train_loss = 3.131822, Time = 244.3s
+test_order_acc = 97.26562,test_family_acc = 81.90789,test_species_acc_soft = 78.72122,test_species_acc_sig = 77.38487, test_loss = 4.650314, Time = 22.7
+
+Epoch: 88
+Iteration 88, train_order_acc = 99.96420,train_family_acc = 98.01043,train_species_acc_soft = 99.69313,train_species_acc_sig = 97.76493, train_loss = 3.131597, Time = 244.2s
+test_order_acc = 97.36842,test_family_acc = 81.74342,test_species_acc_soft = 78.78289,test_species_acc_sig = 77.24095, test_loss = 4.637318, Time = 22.5
+
+Epoch: 89
+Iteration 89, train_order_acc = 99.96931,train_family_acc = 98.01555,train_species_acc_soft = 99.62664,train_species_acc_sig = 97.80585, train_loss = 3.131949, Time = 243.8s
+test_order_acc = 97.26562,test_family_acc = 81.68174,test_species_acc_soft = 78.51562,test_species_acc_sig = 76.93257, test_loss = 4.648361, Time = 22.6
+
+Epoch: 90
+Iteration 90, train_order_acc = 99.95397,train_family_acc = 98.03601,train_species_acc_soft = 99.67778,train_species_acc_sig = 97.80585, train_loss = 3.131777, Time = 244.2s
+Saved Successfully at 90
+test_order_acc = 97.28618,test_family_acc = 81.57895,test_species_acc_soft = 78.59786,test_species_acc_sig = 77.01480, test_loss = 4.646096, Time = 22.4
+
+Epoch: 91
+Iteration 91, train_order_acc = 99.98466,train_family_acc = 98.06669,train_species_acc_soft = 99.68290,train_species_acc_sig = 97.81608, train_loss = 3.131296, Time = 244.0s
+test_order_acc = 97.40954,test_family_acc = 81.78454,test_species_acc_soft = 78.70066,test_species_acc_sig = 77.36431, test_loss = 4.653499, Time = 22.8
+
+Epoch: 92
+Iteration 92, train_order_acc = 99.97443,train_family_acc = 98.05135,train_species_acc_soft = 99.72893,train_species_acc_sig = 97.81608, train_loss = 3.131181, Time = 244.4s
+test_order_acc = 97.34786,test_family_acc = 81.72286,test_species_acc_soft = 78.53618,test_species_acc_sig = 77.11760, test_loss = 4.642169, Time = 22.6
+
+Epoch: 93
+Iteration 93, train_order_acc = 99.96420,train_family_acc = 97.98998,train_species_acc_soft = 99.68290,train_species_acc_sig = 97.78539, train_loss = 3.131776, Time = 243.6s
+test_order_acc = 97.34786,test_family_acc = 81.76398,test_species_acc_soft = 78.74178,test_species_acc_sig = 76.95312, test_loss = 4.649728, Time = 22.7
+
+Epoch: 94
+Iteration 94, train_order_acc = 99.97443,train_family_acc = 98.00020,train_species_acc_soft = 99.68801,train_species_acc_sig = 97.80074, train_loss = 3.131868, Time = 245.3s
+test_order_acc = 97.30674,test_family_acc = 81.78454,test_species_acc_soft = 78.47451,test_species_acc_sig = 77.13816, test_loss = 4.645252, Time = 22.7
+
+Epoch: 95
+Iteration 95, train_order_acc = 99.96420,train_family_acc = 98.02578,train_species_acc_soft = 99.67267,train_species_acc_sig = 97.84677, train_loss = 3.131306, Time = 244.2s
+test_order_acc = 97.22451,test_family_acc = 81.74342,test_species_acc_soft = 78.57730,test_species_acc_sig = 76.93257, test_loss = 4.643055, Time = 23.0
+
+Epoch: 96
+Iteration 96, train_order_acc = 99.94374,train_family_acc = 98.03089,train_species_acc_soft = 99.70336,train_species_acc_sig = 97.87745, train_loss = 3.131771, Time = 244.9s
+test_order_acc = 97.36842,test_family_acc = 81.53783,test_species_acc_soft = 78.43339,test_species_acc_sig = 76.95312, test_loss = 4.644982, Time = 22.7
+
+Epoch: 97
+Iteration 97, train_order_acc = 99.96931,train_family_acc = 98.03089,train_species_acc_soft = 99.68801,train_species_acc_sig = 97.80585, train_loss = 3.131607, Time = 244.3s
+test_order_acc = 97.28618,test_family_acc = 81.88734,test_species_acc_soft = 78.70066,test_species_acc_sig = 77.32319, test_loss = 4.658939, Time = 22.7
+
+Epoch: 98
+Iteration 98, train_order_acc = 99.97443,train_family_acc = 98.02578,train_species_acc_soft = 99.72893,train_species_acc_sig = 97.85700, train_loss = 3.131221, Time = 244.3s
+test_order_acc = 97.40954,test_family_acc = 82.01069,test_species_acc_soft = 78.59786,test_species_acc_sig = 77.24095, test_loss = 4.642067, Time = 22.6
+
+Epoch: 99
+Iteration 99, train_order_acc = 99.97954,train_family_acc = 98.03089,train_species_acc_soft = 99.71870,train_species_acc_sig = 97.83142, train_loss = 3.131293, Time = 244.2s
+test_order_acc = 97.16283,test_family_acc = 81.66118,test_species_acc_soft = 78.55674,test_species_acc_sig = 76.99424, test_loss = 4.651497, Time = 22.6
+
+
+Best Epoch: 63, Best Results: 78.90625
