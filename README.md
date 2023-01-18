@@ -30,7 +30,7 @@ The dataset distribution is long-tailed resulting in class imbalance to differen
 
 <p align="center"><img src="/readme-images/dataset_stats2.png" width="90%" height="90%"></p>
 
-## Setup Environment
+### Setup Environment
 ```bash
 pip3 install requirements.txt
 
@@ -38,7 +38,7 @@ pip3 install requirements.txt
 
 ## Links to download the weights ([Download](https://zenodo.org/record/7499479))
 
-## Steps:
+### Steps:
   1. Download the weights of yolov5, HRN, ResNet in the respective directories.
   2. Download the FGVD Dataset to the working directory.
   3. Run Yolo
@@ -58,7 +58,7 @@ We use YOLOv5L for vehicle localization and Label Relation Graphs Enhanced HRN f
 | **YOLOv5L+HRN**  | **83.21%**  | **59.02%** | **48.40%** |
 
 ## How to Use (Demo).
-Refer Notebook: FGVD_demo.ipynb
+Run Notebook: **[FGVD_Demo.ipynb](https://github.com/iHubData-Mobility/public-FGVD/blob/main/FGVD_Demo.ipynb)**
 
 Sample output of our FGVD model (YOLOv5L+HRN) on test image:
 
