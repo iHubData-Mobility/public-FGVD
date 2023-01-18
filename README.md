@@ -20,18 +20,6 @@ Download our *FGVD dataset* ([Download](https://zenodo.org/record/7488960)), whi
 - Train, val, test folders with images and annotations sub-directories. (train:val:test split-ratio of 64:16:20 out of 5502 total scene images) 
 - The annotations are in Pascal-VOC xml format. (the fine-grained label is encoded as "Vehicle-type_Manufacturer_Model" in object name, ex- car_MarutiSuzuki_Ciaz)
 
-## Links to download the weights ([Download](https://zenodo.org/record/7499479))
-
-## Steps:
-  1. Download the weights of yolov5, HRN, ResNet in the working directory.
-  2. Download the FGVD Dataset to the working directory.
-  3. Run Yolo
-  4. Run HRN, Command:
-```bash
-python hrn-fgvd.py --dir ./
-
-```
-
 ## Statistics.
 It contains 5502 scene images with 24450 bounding boxes of 217 fine-grained labels of multiple vehicle types organized in a three-level hierarchy, namely, vehicle-type, manufacturer and model. 
 
@@ -42,7 +30,25 @@ The dataset distribution is long-tailed resulting in class imbalance to differen
 
 <p align="center"><img src="/readme-images/dataset_stats2.png" width="90%" height="90%"></p>
 
-## How to Use.
+## Setup Environment
+```bash
+pip3 install requirements.txt
+
+```
+
+## Links to download the weights ([Download](https://zenodo.org/record/7499479))
+
+## Steps:
+  1. Download the weights of yolov5, HRN, ResNet in the respective directories.
+  2. Download the FGVD Dataset to the working directory.
+  3. Run Yolo
+  4. Run HRN, Command:
+```bash
+python hrn-fgvd.py --dir ./
+
+```
+
+## Benchmarks.
 We use YOLOv5L for vehicle localization and Label Relation Graphs Enhanced HRN for fine-grained classification. Both models are trained separately on our dataset based on their required inputs. The performance comparison of our model with baseline detectors is provided on our test set:
 
 | Model | L-1 mAP | L-2 mAP | L-3 mAP |
@@ -51,7 +57,9 @@ We use YOLOv5L for vehicle localization and Label Relation Graphs Enhanced HRN f
 | YOLOv5L  | 61.70%  | 42.40% | 32.75% |
 | **YOLOv5L+HRN**  | **83.21%**  | **59.02%** | **48.40%** |
 
-## Demo.
+## How to Use (Demo).
+Refer Notebook: FGVD_demo.ipynb
+
 Sample output of our FGVD model (YOLOv5L+HRN) on test image:
 
 <p><img src="/readme-images/sample_model_output.png" width="80%" height="80%"></p>
