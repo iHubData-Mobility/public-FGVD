@@ -1,9 +1,10 @@
 # Fine-Grained Vehicle Detection (FGVD) Dataset
 
-This repository contains code for the following paper:
+This repository contains dataset and code for the following paper:
 
 Prafful Kumar Khoba, Chirag Parikh, Rohit Saluja, Ravi Kiran Sarvadevabhatla, C.V. Jawahar, A Fine-Grained Vehicle Detection (FGVD) Dataset for
 Unconstrained Roads. ICVGIP 2022.
+Paper Link: https://doi.org/10.48550/arXiv.2212.14569
 
 ## Overview.
 We provide the first Fine-Grained Vehicle Detection (FGVD) dataset in the wild. The dataset provides annotations for localizing the fine-grained classes of multiple vehicle types in a ground view image of a real-world traffic scenario. For example, localizing all *Car* vehicle-types of *MarutiSuzuki* manufacturer and *Ciaz* model in the below image.
